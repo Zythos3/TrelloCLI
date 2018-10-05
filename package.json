@@ -1,0 +1,22 @@
+{
+  "name": "trellocli",
+  "version": "1.0.0",
+  "description": "This is a local cli tool for trello ",
+  "main": "trello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finkegabriel/TrelloCLI.git"
+  },
+  "author": "finkegabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finkegabriel/TrelloCLI/issues"
+  },
+  "homepage": "https://github.com/finkegabriel/TrelloCLI#readme",
+  "dependencies": {
+    "trello-node-api": "0.0.6"
+  }
+}
