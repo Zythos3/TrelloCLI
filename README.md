@@ -4,4 +4,4 @@
     
 'nano ~/.bashrc'
 <h3>insert this at the end of the file</h3>
-'alias trello-init='node /home/'<h2>$user</h2>'/trellocli/trello.js'
+'alias trello-init='node /home/$user/trellocli/trello.js'
