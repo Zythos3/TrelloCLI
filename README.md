@@ -4,6 +4,6 @@
     
 `nano ~/.bashrc`
 
-<h3>insert this at the end of the file without the </h3>
+<h3>insert this at the end of the file. Replace $user with the name of your user on your box </h3>
 
-`alias trello-init='node /home/```$user```/trellocli/trello.js`
+`alias trello-init='node /home/$user/trellocli/trello.js`
